@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>navigation-search-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-/-Search">
+            <g id="navigation-search-icon">
+                <rect id="Rectangle" x="0" y="0" width="35" height="35"></rect>
+                <rect id="Rectangle" x="0" y="0" width="35" height="35"></rect>
+                <g id="Group" transform="translate(10.000000, 10.000000)" stroke="#75859D" stroke-linecap="round" stroke-width="2">
+                    <path d="M10.2677346,10.2677346 L15.8555199,15.8447879 L10.2677346,10.2677346 Z M12,6 C12,9.3138 9.3138,12 6,12 C2.6862,12 3.05533376e-13,9.3138 3.05533376e-13,6 C3.05533376e-13,2.6862 2.6862,-5.32907052e-15 6,-5.32907052e-15 C9.3138,-5.32907052e-15 12,2.6862 12,6 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

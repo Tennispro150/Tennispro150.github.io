@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>footer-icon-external-link</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer-/-USE" transform="translate(-1260.000000, -213.000000)" stroke="#A4B0C2" stroke-width="2">
+            <g id="Group" transform="translate(735.000000, 169.000000)">
+                <g id="footer-icon-external-link" transform="translate(526.000000, 45.000000)">
+                    <polyline id="Stroke-1" stroke-linecap="square" points="12 12 0 11.9998154 0 -0.000184615385"></polyline>
+                    <polyline id="Stroke-3" points="12 7.99972308 12 -0.000276923078 4 -0.000276923078"></polyline>
+                    <path d="M12,0 L3.96738462,8.03261538" id="Stroke-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
